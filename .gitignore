@@ -1,1 +1,3 @@
 .terraform
+geckodriver.log
+public-ip.txt
